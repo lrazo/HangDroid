@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HangDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_multi_activity_game">GameActivity</string>
+    <string name="game_image_descriptor">First game image</string>
+    <string name="insert_letter">Insert letter</string>
+    <string name="check_letter">Check letter</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="points">Points</string>
+    <string name="save_score">Save score</string>
+    <string name="insert_your_name">Insert your name</string>
+    <string name="title_activity_multiplayer">MultiplayerActivity</string>
+    <string name="introduce_word">Introduce word</string>
+    <string name="play">Play</string>
+    <string name="single_player">Single Player</string>
+    <string name="multi_player">Multi Player</string>
+    <string name="scores">Scores</string>
+    <string name="title_activity_scores">ScoresActivity</string>
+</resources>
